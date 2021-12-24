@@ -1,0 +1,567 @@
+.home-section{
+    background-image: url('../images/slidebakery1.jpg');
+    height: 420px; 
+}
+.navigation{
+    display: flex;
+    font-size: 30px;
+    justify-content: space-between;
+}
+.header-section{
+    display: flex;
+}
+.header-section li{
+    padding: 17px;
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+ .navigation h1{
+    padding: 20px;
+    color: #f7a853;
+    position: relative;
+    right: 143px;
+    padding-top: 19px;
+}
+.navigation img{
+    padding: 16px 20px;
+}
+.content-section{
+    text-align: center;
+    color: white;
+}
+.content-section img{
+    width: 110px;
+}
+.content-section h2{
+    font-size: 30px;
+}
+.content-section h3{
+    font-size: 52px;
+    padding-top: 20px;
+    font-family: 'Righteous', cursive;
+}
+.content-section p{
+    font-size: 18px;
+    margin: 35px;
+    color:#666;;
+
+}
+.content-section h4{
+    font-size: 25px;
+    text-align: center;
+}
+.offer-section {
+    display:flex;
+    color: white;
+}
+.specialoffer-1{
+    background-color: #333333ed;
+    height: 230px;
+    width: 365px;
+    margin: 49px;
+    text-align: center;
+
+}
+.specialoffer-2{
+    background-color:#333333ed ;
+    height: 230px;
+    width: 365px;
+    margin: 49px;
+    text-align: center;
+}
+.specialoffer-3{
+    background-color:#333333ed;
+    height: 230px;
+    width: 365px;
+    margin: 49px;
+    text-align: center;
+}
+.box-section{
+    display: flex;
+    padding-left: 58px;
+    font-size: 35px;
+}
+.offer-section h3{
+    padding-left: 11px;
+    
+}
+.offer-section h2{
+    font-size: 25px;
+    margin: 27px
+}
+.box-section span{
+    color: #85a900;
+}
+.offer-section p{
+    color:#666 ;
+    font-size: 16px;
+    margin: 15px;
+}
+.about-section{
+    text-align: center;
+}
+.about-section span{
+    font-size: 26px;
+    color: #f9b000;
+    letter-spacing: 6px;
+    font-family: 'Roboto', sans-serif;
+}
+.about-section h1{
+    font-size: 70px;
+    padding-top: 50px;
+    color: #444444;
+    font-family: 'Righteous', cursive;
+}
+.about-section p{
+    font-size: 16px;
+    color: #444444;
+    margin: 50px;
+}
+.para-1{
+    background-image: url('../images/backgroundshape.png');
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 125px;
+    padding: 31px;
+}
+.para-2{
+    background-image: url('../images/backgroundshape.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 125px;
+    padding: 31px;
+}
+.para-3{
+    background-image: url('../images/backgroundshape.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 125px;
+    padding: 31px;
+}
+.para{
+    display: flex;
+    justify-content:space-around;
+    padding-left: 50px;
+    padding-top: 70px;
+    height: 160px;  
+}
+.since-section{
+    display: flex;
+}
+.since-section-1 h1{
+    padding-left: 130px;
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+}
+.since-section-1 h2{
+    padding-top: 53px;
+    padding-left: 41px;
+    color: #777777;
+}
+.since-section-1 h3{
+    padding-left: 57px;
+    color: #777777;
+}
+.since-section-2 h1{
+    padding-left: 160px;
+    font-size: 23px;
+    color: #333333;
+    font-weight: bold;
+}
+.since-section-2 h2{
+    padding-top: 53px;
+    padding-left: 110px;
+    color: #777777;
+}
+.since-section-2 h3{
+    padding-left: 125px;
+    color: #777777;
+}
+.since-section-3 h1{
+    padding-left: 130px;
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+}
+.since-section-3 h2{
+    padding-top: 53px;
+    padding-left: 110px;
+    color: #777777;
+}
+.since-section-3 h3{
+    padding-left: 125px;
+    color: #777777;
+}
+.pancake{
+    background-image: url('../images/shopnow2.jpg');
+    text-align: center;
+    margin: 115px;
+    height: 267px;
+    width: 1170px;
+}
+.pancake h1{
+padding-top: 52px;
+font-size: 20px;
+color: #777777;
+}
+.pancake h2{
+    font-size: 60px;
+    padding-top: 25px;
+    color: #444444;
+}
+.pancake h3{
+    color: #84ab00;
+    padding-top: 30px;   
+}
+.cake-heading{
+    text-align: center;
+}
+.cake-heading h1{
+font-size: 18px;
+color: #f9b000;
+}
+.cake-heading h2{
+    padding-top: 14px;
+    font-size: 70px;
+    margin: 54px;
+    color: #444444;
+    font-family: 'Righteous', cursive;
+}
+.cake-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cake-section h1{
+   text-align: center;
+   padding-top: 30px;
+   color: #666;
+   font-size: 18px;
+}
+.cake-section h2{
+    text-align: center;
+    padding-top: 6px;
+    color: #fcb100;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: cadetblue;
+}
+.cake-section-1{
+    box-shadow: 1px 1px 2px #2b3b5d4d;
+}
+.prev-section{
+    display: flex;
+    justify-content: center;
+    padding-top: 24px;
+    color: #cccccc;
+}
+.prev-section h1{
+    padding-right: 30px;
+}
+.prev-section h2{
+    padding-right: 21px;
+}
+.prev-section h4{
+    padding-left: 36px;
+}
+.testimonial-section{
+    background-image: url('../images/slidebakery1.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+    margin-top: 100px;
+    background-attachment: fixed;
+}
+.testimonial-section h1{
+color: #f9b000;
+font-size: 20px;
+padding-top: 63px;
+font-size: 24px;
+letter-spacing: 5px;
+}
+.testimonial-section h2{
+    padding-top: 30px;
+    font-size: 70px;
+    color:#fff;
+    font-family: 'Righteous', cursive;
+}
+.testimonial-section p{
+    color:#fff;
+    font-size: 18px;
+    padding: 35px 208px;
+}
+.testimonial-section h3{
+color: #f9b000;
+font-weight: bold;
+font-size: 20px;
+margin:30px;
+
+}
+.testimonial-section span{
+    padding: 8px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #f9b000;
+    font-weight: bold;
+}
+.duration-section{
+    display: flex;
+    margin: 0 40px;
+}
+.blog-heading{
+    text-align: center;
+}
+.blog-heading h1{
+    font-size: 18px;
+    color: #f8b000;
+    padding-top: 156px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.blog-heading h2{
+    font-size: 70px;
+    margin: 30px;
+    color: #444444;
+    font-family: 'Righteous', cursive;
+}
+.duration-section h1{
+    font-size: 60px;
+    color: #dddddd;
+}
+.duration-section span{
+    padding-left: 22px;
+    color: #dddddd;
+}
+.blog-para{
+    padding-left: 50px;
+}
+.blog-para h2{
+    font-size: 26px;
+    font-weight: bold;
+    color: #333333;
+}
+.blog-para p{
+padding-top: 10px;
+font-size: 17px;
+width: 386px;
+}
+.contact-section{
+    text-align: center;
+    box-shadow: 2px 1px 12px #333;
+    width: 1360px;
+    height: 150px;
+    margin-top: 88px;
+}
+.contact-section h1{
+  font-size: 17px;
+  color: #f8b000;
+  padding-top:37px;
+  letter-spacing: 6px;
+}
+.contact-section h2{
+font-size: 70px;
+color: #444444;
+font-family: 'Righteous', cursive;
+}
+.contact-section-1{
+    display: flex;
+    padding: 20px;
+    padding-top: 124px;
+    justify-content: space-around;
+    padding-right: 30px;
+    font-size: 18px;
+    color: #999999;
+}
+.message-section{
+    margin: 43px 141px;
+    font-size:18px;
+    color: #999999;
+}
+.name-section input{
+    border:none;
+    border-bottom: 1px solid #999999;
+    width: 405px;
+    padding-top: 23px;
+    font-size: 20px;
+}
+.message-section textarea{
+    border:none;
+    border-bottom: 1px solid #999999;
+    width: 800px;
+    font-size: 20px;
+    padding-top: 33px;
+}
+.submit-button {
+    margin: 0px 605px; 
+}
+.submit-button button{
+    color: white;
+    background-color: #f8b000;
+    width: 174px;
+    height: 62px;
+    border-radius: 48px;
+    font-size: 19px;
+}
+.address-section{
+    background-image: url('../images/slidebakery1.jpg');
+    height: 500px;
+    padding-top: 40px;
+    margin: 100px 0px;
+    display: flex;
+    background-attachment: fixed;
+}
+.address-section-1{
+    margin: 21px 125px;
+}
+.address-section h1{
+    color: #f8b000;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.address-section h2{
+    color: white;
+    font-size: 30px;
+    padding-top: 15px;
+    font-family: 'Righteous', cursive;
+}
+.address-section p{
+    color: white;
+    padding-top: 16px;
+    font-size: 16px;
+    width: 345px;
+}
+.address-section-1 h3{
+    color: white;
+    padding-top: 30px;
+    padding-left: 25px;
+    font-size: 17px;
+}
+.address-section-1 h4{
+    color: white;
+    padding-top: 15px;
+    padding-left: 25px;
+    font-size: 17px;
+}
+.address-section .icofont-tasks-alt{
+    position: relative;
+    right: 28px;
+    top: 61px;
+    color: white;
+    border: 2px solid #f8b000;
+    border-radius: 25px;
+    padding: 10px;
+}
+.address-section .icofont-ui-touch-phone{
+    position: relative;
+    right: 28px;
+    top: 61px;
+    color: white;
+    border: 2px solid #f8b000;
+    border-radius: 25px;
+    padding: 10px;
+}
+.address-section .icofont-ui-message{
+    position: relative;
+    right: 28px;
+    top: 61px;
+    color: white;
+    border: 2px solid #f8b000;
+    border-radius: 25px;
+    padding: 10px;
+}
+.map-section{
+    padding: 20px;
+}
+.information-section{
+    display:flex;
+    justify-content: space-evenly;
+    margin-left: 320px;
+}
+.img-section img{
+    margin: 0px 40px;
+    width: 75px;
+    position: relative;
+    top: 20px;
+}
+.img-section h1{
+    padding-left: 126px;
+    position: relative;
+    bottom: 45px;
+    font-size: 33px;
+    color:  #666;
+}
+.img-section h2{
+    font-size: 18px;
+    color: #fab000;
+    position: relative;
+    left: 123px;
+    bottom: 39px;
+}
+.img-section p{
+    width: 221px;
+    padding-left: 45px;
+    position: relative;
+    bottom: 26px;
+    color:#666 ;
+}
+.img-section span{
+    color: #f7a853;
+}
+.information-section{
+    position: relative;
+    bottom: 174px;
+    right: 94px;
+    line-height: 2;
+}
+.information-section h1{
+    color: #333333;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    right: 14px;
+}
+.information-section li{
+    color: #666;
+    font-size: 17px;
+}
+.information-section-1{
+    color: #666;
+}
+.icofont-tasks-alt{
+    color: #f8b000;
+    padding-right: 7px;
+}
+.icofont-ui-touch-phone{
+    color: #f8b000;
+    padding-right: 7px;
+}
+.icofont-ui-message{
+    color: #f8b000;
+    padding-right: 7px;
+}
+.icofont-caret-right{
+    color:#f8b000;
+}
+.empty-section{
+    border-bottom: 2px solid rgb(248,176,0);
+    width: 40px;
+    height: 3px;
+    position: relative;
+    right: 16px;
+}
+.icofont-facebook{
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
